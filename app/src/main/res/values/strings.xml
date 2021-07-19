@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Restorent</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream_1">Whipped Cream : $1</string>
+    <string name="chocolate_2">Chocolate : $2</string>
+    <string name="quantity">Quantity</string>
+    <string name="plus">+</string>
+    <string name="zero">0</string>
+    <string name="minus">-</string>
+    <string name="order_summary">Order Summary</string>
+    <string name="submit">submit</string>
+    <string name="share">Share</string>
+    <string name="forward"><![CDATA[>>]]></string>
+
+    // Main Activity
+    <string name="thank_you">\nThank You</string>
+    <string name="order_summary_name">Name : <xliff:g example="Name" id="name">%s</xliff:g></string>
+    <string name="order_summary_addwipped">\nAdd Wipped Cream ? : <xliff:g example="Name" id="hasWippedCreame">%s</xliff:g></string>
+    <string name="order_summary_addchocolate">\nAdd Chocolate ? : <xliff:g example="Name" id="hasChocolate">%s</xliff:g></string>
+    <string name="order_summary_quantity">"\nQuantity : <xliff:g example="Name" id="quantity">%s</xliff:g>"</string>
+    <string name="order_summary_price">"\nTotal : <xliff:g example="Name" id="price">%s</xliff:g>"</string>
+</resources>

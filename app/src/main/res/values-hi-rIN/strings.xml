@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Restorent</string>
+    <string name="enter_name" translatable="false">कृपया नाम दर्ज करें</string>
+    <string name="toppings" translatable="false">टॉपिंग</string>
+    <string name="submit" translatable="false">"सबमिट "</string>
+    <string name="thank_you">"\nशुक्रिया"</string>
+    <string name="whipped_cream_1">"विप्पड़ क्रीम "</string>
+    <string name="chocolate_2">"चॉकलेट "</string>
+    <string name="quantity">संख्या</string>
+    <string name="order_summary">"आर्डर समरी "</string>
+    <string name="share">शेयर</string>
+
+    // Main Activity
+    <string name="order_summary_name">नाम : <xliff:g example="नाम" id="name">%s</xliff:g></string>
+    <string name="order_summary_addchocolate">\nचॉकलेट जोड़ें? : <xliff:g example="Name" id="hasChocolate">%s</xliff:g></string>
+    <string name="order_summary_addwipped">\nव्हीप्ड क्रीम  ? : <xliff:g example="Name" id="hasWippedCreame">%s</xliff:g></string>
+    <string name="order_summary_quantity">\nमात्रा : <xliff:g example="Name" id="quantity">%s</xliff:g></string>
+    <string name="order_summary_price">\nटोटल  : <xliff:g example="Name" id="price">%s</xliff:g></string>
+
+</resources>
